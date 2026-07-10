@@ -101,13 +101,6 @@ The compute nested stack successfully launched the EC2 instance inside the VPC c
 
 ---
 
-### 6. Deployed Web Server
-
-After the UserData script completed, Apache HTTP Server was installed automatically and the application became accessible through the public IP address.
-
-![Website](screenshots/website.png)
-
----
 
 ## Benefits of Nested Stacks
 
